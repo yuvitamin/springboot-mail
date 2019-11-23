@@ -1,0 +1,9 @@
+spring:
+  mail:
+    #QQ邮箱
+    host: smtp.qq.com
+    #发送方的邮箱
+    username: 1066073104@qq.com
+    # 设置密码，该处的密码是发送方QQ邮箱开启SMTP的授权码而非QQ密码
+    password: lcaqlrmymrypbcah
+
